@@ -127,6 +127,4 @@ Pranjal Kapkar
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
-=======
-# AI-App-Compiler
->>>>>>> c05215346ab1e5b55724f11fa02e44e03aecbc4d
+
